@@ -1,3 +1,7 @@
+Este agente tem o intuito de ser um oráculo do FAQ do site da Universidade Federal do ABC:
+
+https://www.ufabc.edu.br/perguntas-frequentes
+
 Segue prints do Agente rodando localmente.
 
 <img width="1800" height="865" alt="Captura de tela 2025-12-10 213933" src="https://github.com/user-attachments/assets/4dfb1acb-eca0-4b27-aaf7-54f788e08ee6" />
